@@ -1,0 +1,3 @@
+findAvg                 Uses inported Rs data to find the average of
+                        each year
+readData                Uses R.matlab to read .mat data file into R

@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "D:/Insync/Classes/Geo - 712/Projects/Week 8/plotRs/packrat/lib/x86_64-w64-mingw32/3.6.1"
+    }
+}

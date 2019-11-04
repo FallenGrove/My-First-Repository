@@ -1,0 +1,28 @@
+source("findAvg.R")
+source("readData.R")
+
+#import data from chamber matlab file
+rsIn = readData('chamData.mat')
+
+#find the average of each chamber for 5 years
+
+master = list()
+i = 1
+
+while(i<6)
+{
+  master[[i]] = findAvg(rsIn,i)
+  i = i+1
+}
+
+
+#plot a time series of the data
+
+#changing the margins of the data
+par(mar = c(1,1,1,1))
+par(mfrow=c(5,1))
+
+for (i in 1:5)
+{
+  plot(master[[i]])
+}

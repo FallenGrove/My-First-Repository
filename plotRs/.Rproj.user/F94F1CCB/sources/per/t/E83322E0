@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572726405850.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2735334005",
+    "id" : "E83322E0",
+    "lastKnownWriteTime" : 1572728259,
+    "last_content_update" : 1572728259643,
+    "path" : "E:/Insync/Classes/Geo - 712/Projects/Week 8/plotRs/R/findAvg.R",
+    "project_path" : "R/findAvg.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

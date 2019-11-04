@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572875565396.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "97AF9563",
+    "lastKnownWriteTime" : 1572877966,
+    "last_content_update" : 1572877966277,
+    "path" : "D:/Insync/Classes/Geo - 712/Projects/Week 8/plotRs/R/readData.R",
+    "project_path" : "R/readData.R",
+    "properties" : {
+        "cursorPosition" : "9,19",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

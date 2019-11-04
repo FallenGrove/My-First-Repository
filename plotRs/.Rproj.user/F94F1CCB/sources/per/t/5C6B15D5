@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572725937816.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4286522802",
+    "id" : "5C6B15D5",
+    "lastKnownWriteTime" : 1572783800,
+    "last_content_update" : 1572783800724,
+    "path" : "E:/Insync/Classes/Geo - 712/Projects/Week 8/plotRs/R/Main.R",
+    "project_path" : "R/Main.R",
+    "properties" : {
+        "cursorPosition" : "1,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
